@@ -1,0 +1,10 @@
+:root {
+    --black: rgb(160, 15, 15);
+    --temperature: 17px;
+}
+
+div {
+    padding: var(--temperature);
+    background-color: var(--black);
+    color:antiquewhite;
+}
