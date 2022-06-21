@@ -1,0 +1,84 @@
+:root {
+    --bar: #14ba92;
+    --size: 20px;
+}
+
+#surge{
+padding: var(--size);
+background-color: var(--bar);
+color: antiquewhite;
+}
+#flamingo {
+    background-color:white;
+    color: whitesmoke;
+    text-align: left;
+    padding: 0px;
+}
+p {
+    text-align: center;
+    color: #333;
+}
+#web{
+    text-align: center;
+    color:#333;
+    font-size: 50px;
+}
+#for{
+    text-align: center;
+    color:#333;
+    font-size: 50px;
+}
+#pub{
+    text-align: center;
+    color:#333;
+}
+#free{
+    text-align: center;
+    color:#333;
+}
+#line{
+    text-align: center;
+    color:#333;
+}
+#span1 {
+    display:inline-flex;
+    width: 200px;
+    height: 300;
+    color: #333;
+}
+#span2 {
+    display:inline-flex;
+    width: 200px;
+    height: 300;
+    color: #333;
+}
+#span3 {
+    display:inline-flex;
+    width: 200px;
+    height: 300;
+    color: #333;
+}
+#grid {
+    display: flex;
+    justify-content: center;
+}
+
+#grid h2 {
+    font-size: 40px;
+    margin: 0;
+}
+
+#grid div div {
+    text-align: center;
+}
+#to{
+    text-align: center;
+    color: #333;
+}
+#my{
+    text-align: center;
+    color: #333;
+}
+a{
+    color: #14ba92;
+}
